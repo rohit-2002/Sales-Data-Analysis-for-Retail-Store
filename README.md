@@ -30,8 +30,7 @@ This application analyzes sales data for various product categories, providing s
 - Data visualization (charts and graphs).  
 
 ## Tools and Technologies  
-- **Python**  
-- **Libraries**:  
+- **Python Libraries**:  
   - `pandas` for data manipulation  
   - `numpy` for numerical computations  
   - `scipy.stats` for hypothesis testing  
